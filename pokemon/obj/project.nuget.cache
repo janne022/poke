@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3TccxYolpxlf7+GTojo5+BWHwStiwjPLz+trGCy3t3FPnhbgyp6C1VP7EFIpfSFzXb3qQUMUb7JCO6CCd4rVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janni\\OneDrive\\Dokument\\Visual Studio Code\\poke\\pokemon\\pokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janni\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\janni\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

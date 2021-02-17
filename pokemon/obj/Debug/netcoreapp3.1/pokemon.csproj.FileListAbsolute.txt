@@ -1,0 +1,16 @@
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\pokemon.exe
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\pokemon.deps.json
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\pokemon.runtimeconfig.json
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\pokemon.runtimeconfig.dev.json
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\pokemon.dll
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\pokemon.pdb
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.csprojAssemblyReference.cache
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.AssemblyInfoInputs.cache
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.AssemblyInfo.cs
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.csproj.CopyComplete
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.dll
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.pdb
+C:\Users\janni\OneDrive\Dokument\Visual Studio Code\poke\pokemon\obj\Debug\netcoreapp3.1\pokemon.genruntimeconfig.cache
